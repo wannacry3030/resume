@@ -1,0 +1,17 @@
+body{
+width:100%;
+height:100vh;
+ background:url(background.png);
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+ color: #376728;
+ font-family: 'Inter', sans-serif;
+}
+.title{color:#1B821B;
+}
+a{
+color: #1B821B;
+text-decoration: none;
+
+}
