@@ -62,3 +62,24 @@ h1 {
 .btn:active {
   background-color: #0733bf;
 }
+h2 {
+  margin-bottom: 48px;
+  font-size: 36px;
+  letter-spacing: -0.5px;
+  /* 24 / 32 / 48  */
+}
+
+.grid-3-cols {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 80px;
+}
+.features-title {
+  margin-bottom: 16px;
+  font-size: 20px;
+}
+
+.features-text {
+  font-size: 18px;
+  line-height: 1.7;
+}
